@@ -18,4 +18,9 @@ Para las pruebas de servicio se deben ejevcutar las siguientes urls:
     }
     ]
   }
-   
+
+  Se valida el email correctamente
+  Se valida el password: Ejemplo de Correcto Mam3mlx440
+        Contraseña de 4 a 32 caracteres que requiere al menos 3 de 4 (mayúsculas
+        y letras minúsculas, números y caracteres especiales) y como máximo
+        2 caracteres consecutivos iguales.
